@@ -1,0 +1,4 @@
+*.filecache
+*.dill
+*.stamp
+*.d
